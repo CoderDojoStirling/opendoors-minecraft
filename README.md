@@ -15,7 +15,7 @@ The setup laptop can be used to:
 * Run the demo
 * Add to the existing Javascript code, to create more construction components - like different types of house
 
-To setup the laptop, follow the instructions below.
+### Setup - running the demo
 
 First, log into the laptop as 'coderdojo-mentor'.
 
@@ -40,6 +40,8 @@ Let's get the Minecraft client connected to the server and running Javascript
 
 Let's see if we can build in Minecraft using Javascript:
 * In the Minecraft client, type '/' to open the prompt. Now type 'js stirling.house(). A house should appear like magic.
+
+### Setup - making code changes
 
 At this point, the laptop is setup to run the demo. However, we'd like to create some more construction components for people to play with. You can do that by editing the project javascript. Any code changes you make should be reflected immediately in the Minecraft client. So if you redefine what a house looks like, and then run 'stirling.house()', you should see the changes.
 
